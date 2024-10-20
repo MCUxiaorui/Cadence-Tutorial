@@ -12,7 +12,9 @@ VLSI5545
 virtuoso &
 ```
 ### Create Project
-
+1. File -> new -> library -> OK
+2. Attach to existing technology library -> OK
+3. NCSU_TechLib_FreePDK45 -> OK
 ## Finish
 ### compress Project to tgz 
 * Using tgz to compress the project file
